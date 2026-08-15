@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/logitechsoumili/coding-submissions/tree/master/0056-merge-intervals) |
+| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/logitechsoumili/coding-submissions/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
