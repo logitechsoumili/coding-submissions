@@ -1,52 +1,49 @@
-# coding-submissions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/logitechsoumili/coding-submissions/tree/master/0056-merge-intervals) |
-| [0057-insert-interval](https://github.com/logitechsoumili/coding-submissions/tree/master/0057-insert-interval) |
-| [0189-rotate-array](https://github.com/logitechsoumili/coding-submissions/tree/master/0189-rotate-array) |
-| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
-| [1028-interval-list-intersections](https://github.com/logitechsoumili/coding-submissions/tree/master/1028-interval-list-intersections) |
-## Sorting
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/logitechsoumili/coding-submissions/tree/master/0056-merge-intervals) |
-| [0242-valid-anagram](https://github.com/logitechsoumili/coding-submissions/tree/master/0242-valid-anagram) |
-## Quicksort
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/logitechsoumili/coding-submissions/tree/master/0056-merge-intervals) |
-## Hash Table
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/logitechsoumili/coding-submissions/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/logitechsoumili/coding-submissions/tree/master/0242-valid-anagram) |
-## Matrix
-|  |
-| ------- |
-| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
-## Simulation
-|  |
-| ------- |
-| [0898-transpose-matrix](https://github.com/logitechsoumili/coding-submissions/tree/master/0898-transpose-matrix) |
-## Two Pointers
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/logitechsoumili/coding-submissions/tree/master/0189-rotate-array) |
-| [1028-interval-list-intersections](https://github.com/logitechsoumili/coding-submissions/tree/master/1028-interval-list-intersections) |
-## Sweep Line
-|  |
-| ------- |
-| [1028-interval-list-intersections](https://github.com/logitechsoumili/coding-submissions/tree/master/1028-interval-list-intersections) |
-## Math
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/logitechsoumili/coding-submissions/tree/master/0189-rotate-array) |
-<!---LeetCode Topics End-->
+# 🧠 Coding Solutions
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-22--8--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Python | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-08-22* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
